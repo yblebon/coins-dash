@@ -1,0 +1,5 @@
+name: coins-dash
+dependencies:
+  - streamlit
+  - requests
+  - numpy
